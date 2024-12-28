@@ -1,6 +1,6 @@
 # Expense Management System
 
-## Project Overview
+## Overview
 The Expense Management System is a comprehensive full-stack application designed to empower individuals in managing their personal finances effectively. This application provides users with an intuitive interface to track income and expenses, set financial goals, and generate insightful reports, enabling better financial decision-making. By combining robust backend services with an interactive frontend, the system ensures seamless user experience and operational efficiency.
 
 ## Features
