@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Management System
 
 ## Project Overview
@@ -144,3 +145,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Summary
 The Expense Management System is a user-friendly platform offering a wide range of functionalities to simplify personal finance management. With its advanced features for both users and administrators, the system ensures a comprehensive approach to tracking and optimizing financial health. By leveraging cutting-edge technologies like Spring Boot and React.js, the application guarantees performance, scalability, and a seamless user experience.
+=======
+# Expense_Management_System
+>>>>>>> ca6b601 (Expense Management System)
