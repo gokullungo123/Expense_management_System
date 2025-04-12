@@ -105,7 +105,7 @@ The Expense Management System is a comprehensive full-stack application designed
 1. Install the required tools as listed above.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/chavapardhakalyan/Expense_Management_System.git
+   git clone https://github.com/gokullungo123/Expense_management_System.git
    ```
 
 3. Set up the backend:
